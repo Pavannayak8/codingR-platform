@@ -1,5 +1,5 @@
 ##  ZCoder
-- EvenSem Project, Coding Club IIT Guwahati
+- NIT Rourkela 
 
 ## Deployment
 - [Video](https://drive.google.com/file/d/1Sq5mtktC5dbsA_dbneThlU582LBsEJKC/view?pli=1)
@@ -46,11 +46,11 @@ Zcoder is a dynamic platform designed for developers to enhance their coding ski
 
 ### Contributors
 
-- Nagasarapu Venkata Koushik ([@NVKoushik](https://github.com/NVKoushik))
+- pavan nayak ([@pavan](https://github.com/Pavannayak8))
 
-- Rayala Naga Pragna Sri ([@pragna-sri](https://github.com/pragna-sri))
 
-- Kanumukkala Hithesh Reddy ([@quadwipe](https://github.com/quadwipe))
 
-- Kothakapu Sai Charan Reddy ([@sai-45](https://github.com/sai-45))
+  
+
+ 
 
